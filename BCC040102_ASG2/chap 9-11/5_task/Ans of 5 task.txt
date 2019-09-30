@@ -1,0 +1,6 @@
+a. given condition for variable a is true
+b. undefined(because value of b is 82 and you wanted to alert b which has value 83)  
+c. condition 2 is true, condition 4 is true
+d. The cost equals
+e. True, in seconed expression you should put else if rather than if 
+f. car is smaller than cat
